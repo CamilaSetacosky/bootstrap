@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-primary {
+    background: #84a59d;
+    border: 0;
+}
+
+.btn-primary:hover {
+    background: #84a59d5d;
+}
+
+footer {
+    width: 100%;
+    background-color: #fff;
+    height: 100px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ancho-footer { 
+    margin-top: 10px;
+}
+
+.redes {
+    display: inline-block;
+    text-align: center;
+    color: black;
+}
+
+.bi-instagram {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: black
+}
+
+.bi-instagram:hover {
+    color: #84a59d;
+}
+
+.bi-facebook {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: black;
+}
+
+.bi-facebook:hover {
+    color: #84a59d;
+}
+
+.bi-whatsapp {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: black;
+}
+
+.bi-whatsapp:hover {
+    color: #84a59d;
+}
+
+/*Contacto*/
+
+.contacto-img {
+    background-image: url(../images/fondito.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.container {
+    background-color: #f5cac388;
+}
+
+.bg-micolor {
+    background:#fff;
+    border: none;
+}
+
+.bg-micolor:hover {
+    background: #84a59d5d;
+    border: none;
+}
